@@ -1,0 +1,57 @@
+body {
+    background-image: linear-gradient(orange,lime, lime);
+    font-family: VT323;
+    color: brown;
+    font-size: 30px;
+}
+
+img {
+    width: 600px;
+    border: 5px dotted green;
+}
+
+.o1 {
+    display: none;
+}
+
+.o2 {
+    display: none;
+}
+
+.o3 {
+    display: none;
+}
+
+.o4 {
+    display: none;
+}
+
+.third {
+    display: none;
+}
+
+.fourth {
+    display: none;
+}
+
+h3 {
+    display: none;
+}
+
+.question2 {
+    display: none;
+}
+
+h4 {
+    font-family: Bellefair;
+    color: yellow;
+}
+
+.fifth {
+    display: none;
+    font-family: sail;
+    color: pink;
+    text-shadow: 3px 0 0 #000000;
+    font-size: 40px;
+}
+h2{background-color:blue;}
